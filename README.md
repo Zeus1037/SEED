@@ -5,7 +5,7 @@
 
 >   Full dataset: Coming Soon...
 
--   [x] **Supplementary**: see supplementary_for_SEED.pdf
+-   [x] **Supplementary**: see supplementary_for_SEED.pdf or download from [Google Drive](https://drive.google.com/drive/folders/1DFJMbV4S8nYJ8N6NuTdNW8CbzeNk8nUR)
 
 
 
